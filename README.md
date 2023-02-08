@@ -1,2 +1,2 @@
 # AlgoCake
-AlgoCake - Image Encrypter/Decrypter written in c++
+AlgorythmicCake - Image Encrypter/Decrypter + Text to Binary Converter
